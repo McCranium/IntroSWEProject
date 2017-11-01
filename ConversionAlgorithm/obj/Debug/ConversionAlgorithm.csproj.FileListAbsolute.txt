@@ -1,0 +1,12 @@
+F:\Intro to SWE\ConversionAlgorithm\ConversionAlgorithm\bin\Debug\ConversionAlgorithm.exe.config
+F:\Intro to SWE\ConversionAlgorithm\ConversionAlgorithm\bin\Debug\ConversionAlgorithm.exe
+F:\Intro to SWE\ConversionAlgorithm\ConversionAlgorithm\bin\Debug\ConversionAlgorithm.pdb
+F:\Intro to SWE\ConversionAlgorithm\ConversionAlgorithm\obj\Debug\ConversionAlgorithm.csprojResolveAssemblyReference.cache
+F:\Intro to SWE\ConversionAlgorithm\ConversionAlgorithm\obj\Debug\ConversionAlgorithm.exe
+F:\Intro to SWE\ConversionAlgorithm\ConversionAlgorithm\obj\Debug\ConversionAlgorithm.pdb
+D:\Intro to SWE\ConversionAlgorithm\ConversionAlgorithm\bin\Debug\ConversionAlgorithm.exe.config
+D:\Intro to SWE\ConversionAlgorithm\ConversionAlgorithm\bin\Debug\ConversionAlgorithm.exe
+D:\Intro to SWE\ConversionAlgorithm\ConversionAlgorithm\bin\Debug\ConversionAlgorithm.pdb
+D:\Intro to SWE\ConversionAlgorithm\ConversionAlgorithm\obj\Debug\ConversionAlgorithm.csprojResolveAssemblyReference.cache
+D:\Intro to SWE\ConversionAlgorithm\ConversionAlgorithm\obj\Debug\ConversionAlgorithm.exe
+D:\Intro to SWE\ConversionAlgorithm\ConversionAlgorithm\obj\Debug\ConversionAlgorithm.pdb
